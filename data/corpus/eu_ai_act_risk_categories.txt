@@ -1,0 +1,32 @@
+The EU AI Act establishes four categories of risk for AI systems:
+
+1. UNACCEPTABLE RISK (Prohibited AI Practices - Article 5):
+AI systems that pose a clear threat to safety, livelihoods, and rights of people are banned entirely. These include:
+- Social scoring systems by public authorities
+- Real-time remote biometric identification in public spaces (with limited exceptions for law enforcement)
+- AI systems that deploy subliminal, manipulative, or deceptive techniques to distort behavior
+- AI systems that exploit vulnerabilities of specific groups (age, disability, social situation)
+- Predictive policing based solely on profiling or personality traits
+- Emotion recognition systems in workplace and educational settings
+- Untargeted scraping of facial images from the internet or CCTV to build facial recognition databases
+
+2. HIGH RISK (Article 6 and Annex III):
+AI systems that pose significant risks to health, safety, or fundamental rights. These must meet strict requirements before being placed on the market. Examples include:
+- Biometric identification and categorization systems
+- AI used in critical infrastructure management (water, gas, electricity, transport)
+- AI systems used in education for determining access or assessing students
+- AI used in employment (recruitment, task allocation, performance monitoring)
+- AI for access to essential services (credit scoring, insurance pricing)
+- AI used in law enforcement (evidence evaluation, recidivism prediction)
+- AI used in migration and border control
+- AI used in administration of justice and democratic processes
+
+3. LIMITED RISK (Transparency obligations):
+AI systems with specific transparency requirements. Users must be informed they are interacting with AI. This includes:
+- Chatbots and conversational AI systems
+- AI systems that generate deepfakes or synthetic content
+- Emotion recognition systems (where not prohibited)
+- Biometric categorization systems (where not prohibited)
+
+4. MINIMAL RISK:
+All other AI systems that pose minimal or no risk to citizens' rights or safety. These can be developed and used freely, subject only to existing legislation. Examples include AI-enabled video games, spam filters, and inventory management systems.

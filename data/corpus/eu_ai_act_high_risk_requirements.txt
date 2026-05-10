@@ -1,0 +1,25 @@
+High-risk AI systems under the EU AI Act must comply with a comprehensive set of requirements before being placed on the EU market:
+
+RISK MANAGEMENT SYSTEM (Article 9):
+Providers must establish, implement, document, and maintain a risk management system throughout the entire lifecycle of the high-risk AI system. This includes identification of known and foreseeable risks, estimation and evaluation of risks, and adoption of appropriate risk management measures.
+
+DATA GOVERNANCE (Article 10):
+Training, validation, and testing datasets must meet quality criteria. They must be relevant, sufficiently representative, and as free of errors as possible. Datasets must take into account the specific geographical, contextual, behavioral, or functional setting in which the AI system is intended to be used. Bias examination and appropriate mitigation measures are required.
+
+TECHNICAL DOCUMENTATION (Article 11):
+Complete technical documentation must be drawn up before the system is placed on the market and kept up to date. It must demonstrate compliance with all requirements and provide national authorities with all necessary information to assess compliance.
+
+RECORD-KEEPING AND LOGGING (Article 12):
+High-risk AI systems must be designed to automatically record events (logs) throughout their lifetime. Logging capabilities must ensure traceability of the system's functioning, including the identification of situations that may result in risks.
+
+TRANSPARENCY AND PROVISION OF INFORMATION (Article 13):
+High-risk AI systems must be designed to ensure that their operation is sufficiently transparent to enable deployers to interpret outputs and use them appropriately. Instructions for use must include concise, complete, correct, and clear information relevant to the deployer.
+
+HUMAN OVERSIGHT (Article 14):
+High-risk AI systems must be designed to allow effective oversight by natural persons during use. Human oversight measures must enable the individuals to properly understand the system's capabilities and limitations, monitor operation, and be able to override or interrupt the system.
+
+ACCURACY, ROBUSTNESS, AND CYBERSECURITY (Article 15):
+High-risk AI systems must be designed to achieve an appropriate level of accuracy, robustness, and cybersecurity. They must be resilient against errors, faults, and inconsistencies, and against attempts by unauthorized third parties to alter their use or performance.
+
+CONFORMITY ASSESSMENT (Article 43):
+Before placing a high-risk AI system on the market, providers must carry out a conformity assessment procedure. For most high-risk systems, this involves an internal control procedure. For biometric systems, a third-party conformity assessment by a notified body is required.

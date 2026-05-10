@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/corpus/*.pdf
+data/results/*.csv
+*.egg-info/
+dist/
+build/
+.venv/
+venv/

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "When was the EU AI Act officially adopted by the European Parliament?",
+    "ground_truth": "The EU AI Act was officially adopted by the European Parliament on March 13, 2024."
+  },
+  {
+    "question": "What are the four risk categories defined by the EU AI Act?",
+    "ground_truth": "The four risk categories are: unacceptable risk (prohibited), high risk, limited risk (transparency obligations), and minimal risk."
+  },
+  {
+    "question": "What is the maximum fine for violating prohibited AI practices under the EU AI Act?",
+    "ground_truth": "The maximum fine for violations related to prohibited AI practices is up to 35 million euros or 7% of worldwide annual turnover, whichever is higher."
+  },
+  {
+    "question": "What is the compute threshold for classifying a GPAI model as having systemic risk?",
+    "ground_truth": "The initial threshold is set at 10^25 FLOPs of cumulative compute used for training. Models above this threshold are presumed to have systemic risk."
+  },
+  {
+    "question": "Which AI practices are completely banned under Article 5 of the EU AI Act?",
+    "ground_truth": "Banned practices include social scoring by public authorities, real-time remote biometric identification in public spaces (with limited law enforcement exceptions), AI using subliminal or manipulative techniques, AI exploiting vulnerabilities of specific groups, predictive policing based solely on profiling, emotion recognition in workplaces and educational settings, and untargeted scraping of facial images for facial recognition databases."
+  },
+  {
+    "question": "What are the obligations for all GPAI model providers under Article 53?",
+    "ground_truth": "All GPAI providers must: draw up and maintain technical documentation, provide information and documentation to downstream providers, put in place a policy to comply with EU copyright law regarding text and data mining opt-outs, and make publicly available a summary of training content."
+  },
+  {
+    "question": "What is the role of the European AI Office?",
+    "ground_truth": "The European AI Office oversees GPAI model compliance, conducts evaluations of GPAI models, requests information from providers, enforces rules on GPAI models with systemic risk, and develops codes of practice in cooperation with GPAI providers."
+  },
+  {
+    "question": "What requirements must high-risk AI systems meet regarding human oversight?",
+    "ground_truth": "High-risk AI systems must be designed to allow effective oversight by natural persons during use. Human oversight measures must enable individuals to properly understand the system's capabilities and limitations, monitor operation, and be able to override or interrupt the system."
+  },
+  {
+    "question": "When do the obligations for GPAI models start to apply?",
+    "ground_truth": "The obligations for GPAI models apply starting August 2, 2025."
+  },
+  {
+    "question": "Are open-source GPAI models exempt from the EU AI Act obligations?",
+    "ground_truth": "GPAI models released under a free and open-source license are exempt from most obligations, except copyright compliance and training data summary publication, unless they are classified as having systemic risk."
+  },
+  {
+    "question": "What is the right to explanation under Article 86?",
+    "ground_truth": "Any person affected by a decision made using a high-risk AI system has the right to obtain clear and meaningful explanations of the role of the AI system in the decision-making procedure and the main elements of the decision taken."
+  },
+  {
+    "question": "What data governance requirements apply to high-risk AI systems?",
+    "ground_truth": "Training, validation, and testing datasets must meet quality criteria: they must be relevant, sufficiently representative, and as free of errors as possible. They must take into account the specific geographical, contextual, behavioral, or functional setting in which the AI system is intended to be used. Bias examination and appropriate mitigation measures are required."
+  },
+  {
+    "question": "What entities does the EU AI Act apply to?",
+    "ground_truth": "The EU AI Act applies to providers, deployers, importers, and distributors of AI systems within the European Union market, regardless of whether they are established within the EU or in a third country."
+  },
+  {
+    "question": "What are examples of high-risk AI applications listed in the EU AI Act?",
+    "ground_truth": "Examples include biometric identification systems, AI in critical infrastructure management (water, gas, electricity, transport), AI in education for determining access or assessing students, AI in employment (recruitment, task allocation, performance monitoring), AI for access to essential services (credit scoring, insurance pricing), AI in law enforcement, AI in migration and border control, and AI in administration of justice."
+  },
+  {
+    "question": "What must deployers of high-risk AI in public services do before deployment?",
+    "ground_truth": "Deployers that are bodies governed by public law or private entities providing public services must perform a fundamental rights impact assessment before deploying high-risk AI systems. This must include a description of processes where the AI will be used, the period and frequency of use, categories of persons likely to be affected, and specific risks of harm."
+  },
+  {
+    "question": "What is the penalty for supplying incorrect information to authorities under the EU AI Act?",
+    "ground_truth": "Supply of incorrect, incomplete, or misleading information to authorities can result in fines of up to 7.5 million euros or 1% of worldwide annual turnover."
+  },
+  {
+    "question": "How does the EU AI Act define an AI system?",
+    "ground_truth": "The regulation defines an AI system as a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers from the input it receives how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments."
+  },
+  {
+    "question": "What transparency obligations apply to limited-risk AI systems?",
+    "ground_truth": "Limited-risk AI systems have specific transparency requirements: users must be informed they are interacting with AI. This applies to chatbots and conversational AI systems, AI systems that generate deepfakes or synthetic content, emotion recognition systems, and biometric categorization systems."
+  },
+  {
+    "question": "What additional obligations do providers of systemic risk GPAI models have?",
+    "ground_truth": "They must perform model evaluation including adversarial testing using standardized protocols, assess and mitigate possible systemic risks at Union level, track and report serious incidents to the AI Office and national authorities, and ensure adequate cybersecurity protection for the model and its physical infrastructure."
+  },
+  {
+    "question": "What powers do national market surveillance authorities have?",
+    "ground_truth": "They can access training, validation, and testing datasets, access source code when necessary to assess compliance, request documentation and information from providers, conduct market surveillance activities including testing and reverse engineering, and order corrective actions, withdrawal, or recall of non-compliant AI systems."
+  }
+]

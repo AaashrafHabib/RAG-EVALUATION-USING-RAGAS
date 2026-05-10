@@ -1,0 +1,5 @@
+The European Union Artificial Intelligence Act (EU AI Act) is the first comprehensive legal framework for AI regulation worldwide. It was officially adopted by the European Parliament on March 13, 2024, and entered into force on August 1, 2024. The regulation takes a risk-based approach to AI governance, categorizing AI systems into four risk levels: unacceptable risk, high risk, limited risk, and minimal risk.
+
+The EU AI Act applies to providers, deployers, importers, and distributors of AI systems within the European Union market, regardless of whether they are established within the EU or in a third country. This extraterritorial scope means that companies outside the EU must also comply if their AI systems are used within EU borders.
+
+The regulation defines an AI system as a machine-based system designed to operate with varying levels of autonomy, that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers from the input it receives how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.

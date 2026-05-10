@@ -1,0 +1,37 @@
+GENERAL-PURPOSE AI MODELS (GPAI) - Chapter V of the EU AI Act:
+
+The EU AI Act introduces specific provisions for General-Purpose AI (GPAI) models, which are AI models trained on broad data at scale that can be adapted to a wide range of tasks. This directly addresses foundation models and large language models like GPT-4, Claude, Gemini, and Llama.
+
+OBLIGATIONS FOR ALL GPAI PROVIDERS (Article 53):
+All providers of GPAI models must:
+- Draw up and keep up to date technical documentation of the model, including training and testing processes and evaluation results
+- Draw up and make available information and documentation to downstream providers who integrate the model into their AI systems
+- Put in place a policy to comply with EU copyright law, in particular Article 4(3) of the Copyright Directive regarding text and data mining opt-outs
+- Draw up and make publicly available a sufficiently detailed summary of the content used for training the GPAI model
+
+SYSTEMIC RISK GPAI MODELS (Article 51):
+A GPAI model is classified as having systemic risk if it:
+- Has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies
+- Is designated by the European Commission based on specific criteria
+The initial threshold is set at 10^25 FLOPs of cumulative compute used for training. Models above this threshold are presumed to have systemic risk.
+
+ADDITIONAL OBLIGATIONS FOR SYSTEMIC RISK MODELS (Article 55):
+Providers of GPAI models with systemic risk must additionally:
+- Perform model evaluation in accordance with standardized protocols and tools, including adversarial testing
+- Assess and mitigate possible systemic risks at Union level, including their sources
+- Track, document, and report serious incidents and possible corrective measures to the AI Office and relevant national competent authorities
+- Ensure an adequate level of cybersecurity protection for the GPAI model and its physical infrastructure
+
+THE AI OFFICE:
+The European AI Office, established within the European Commission, is responsible for:
+- Overseeing GPAI model compliance
+- Conducting evaluations of GPAI models
+- Requesting information from providers
+- Enforcing rules on GPAI models with systemic risk
+- Developing codes of practice in cooperation with GPAI providers
+
+CODES OF PRACTICE (Article 56):
+The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level to contribute to the proper application of the regulation for GPAI providers. Codes of practice should address specific obligations, risk identification, and mitigation measures.
+
+OPEN-SOURCE EXCEPTIONS:
+GPAI models released under a free and open-source license are exempt from most obligations (except copyright compliance and training data summary publication), UNLESS they are classified as having systemic risk.

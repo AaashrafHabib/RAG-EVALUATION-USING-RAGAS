@@ -1,0 +1,37 @@
+ENFORCEMENT AND PENALTIES UNDER THE EU AI ACT:
+
+GOVERNANCE STRUCTURE:
+The EU AI Act establishes a multi-layered governance structure:
+- The European AI Office (within the European Commission): Oversees GPAI model compliance, develops guidelines, coordinates enforcement
+- The European Artificial Intelligence Board: Composed of representatives from all Member States, provides advice and assists coordination
+- National Competent Authorities: Each Member State designates at least one notifying authority and one market surveillance authority
+- Advisory Forum: Represents a balanced selection of stakeholders including industry, SMEs, civil society, and academia
+
+PENALTIES (Article 99):
+The EU AI Act establishes a tiered penalty structure:
+- Violations related to prohibited AI practices (Article 5): Up to €35 million or 7% of worldwide annual turnover, whichever is higher
+- Non-compliance with other provisions: Up to €15 million or 3% of worldwide annual turnover
+- Supply of incorrect, incomplete, or misleading information to authorities: Up to €7.5 million or 1% of worldwide annual turnover
+
+For SMEs and startups, the lower of the two amounts (fixed or percentage) applies, making the regulation more proportionate for smaller companies.
+
+TIMELINE OF APPLICATION:
+- August 1, 2024: Entry into force
+- February 2, 2025: Prohibition of unacceptable risk AI systems applies
+- August 2, 2025: Obligations for GPAI models apply; governance structure operational
+- August 2, 2026: Most provisions apply, including high-risk AI requirements
+- August 2, 2027: Obligations for high-risk AI systems embedded in regulated products (Annex I) apply
+
+RIGHT TO EXPLANATION (Article 86):
+Any person affected by a decision made using a high-risk AI system has the right to obtain clear and meaningful explanations of the role of the AI system in the decision-making procedure and the main elements of the decision taken.
+
+FUNDAMENTAL RIGHTS IMPACT ASSESSMENT (Article 27):
+Deployers that are bodies governed by public law, or private entities providing public services, must perform a fundamental rights impact assessment before deploying high-risk AI systems. This must include a description of the deployer's processes where the AI system will be used, the period and frequency of use, the categories of persons and groups likely to be affected, and the specific risks of harm likely to affect those categories.
+
+MARKET SURVEILLANCE:
+National market surveillance authorities have powers to:
+- Access training, validation, and testing datasets used for development of the AI system
+- Access source code of the AI system when necessary to assess compliance
+- Request documentation and information from providers
+- Conduct market surveillance activities including testing and reverse engineering
+- Order corrective actions, withdrawal, or recall of non-compliant AI systems
