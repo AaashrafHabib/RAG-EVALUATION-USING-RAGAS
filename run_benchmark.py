@@ -14,8 +14,8 @@ def main():
     parser = argparse.ArgumentParser(description="Run RAGAS benchmark (AWS Bedrock)")
     parser.add_argument("--configs", choices=["all", "quick"], default="quick",
                        help="Run all configs or just a quick subset (first 4)")
-    parser.add_argument("--judge", default="anthropic.claude-sonnet-4-20250514-v1:0",
-                       help="Bedrock model ID for RAGAS judge")
+    parser.add_argument("--judge", default="eu.anthropic.claude-sonnet-4-20250514-v1:0",
+                       help="Bedrock inference profile ID for RAGAS judge")
     args = parser.parse_args()
 
     print("Loading data...")

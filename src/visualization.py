@@ -15,7 +15,7 @@ def plot_radar_chart(df: pd.DataFrame, output_path: str = "data/results/radar_ch
 
     fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
 
-    colors = plt.cm.Set3(np.linspace(0, 1, len(df)))
+    colors = plt.cm.tab10(np.linspace(0, 1, max(len(df), 10)))
 
     for idx, row in df.iterrows():
         values = [row[m] for m in metrics]
